@@ -1,0 +1,44 @@
+.buy-now-button
+{
+    color: white;
+    padding: 9px 25px;
+    border-radius: 10px;
+    background-color: black;
+}
+.container
+{
+    margin-bottom: 25px;
+}
+.card
+{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 15px 15px 40px lightgrey;
+    margin-top: 20px;
+    padding: 50px;
+    text-align: center;
+}
+.card-footer
+{
+    background-color: white;
+    border-top: none;
+}
+#product,#product-2
+{
+    color: orange;
+}
+.catagories
+{
+    text-align: center;
+    padding: 50px;
+}
+#grad-line
+{
+    border: 4px solid gold;
+    border-radius: 5px;
+    width: 100px;
+    position: relative;
+    left: 505px;
+    bottom: 50px;
+}
+
